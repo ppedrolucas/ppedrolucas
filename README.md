@@ -5,12 +5,18 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com.br)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pereiradev2023@gmail.com)
 
-<p>Sou programador junior front-end focando em tecnologias para web.
+<p>
+    Sou programador junior front-end focando em tecnologias para web.
 </p>
 
-![Pedro Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=hematopoese&show_icons=true&theme=transparent)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hematopoese&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hematopoese&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-### 🚀 Experiência
+## 🚀 Experiência
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
