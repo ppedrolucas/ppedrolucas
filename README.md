@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pereiradev2023@gmail.com)
 
 <p>
-    Sou programador junior front-end focando em tecnologias para web.
+    Sou programador junior front-end centrado em desenvolvimento de aplicações web.
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,6 +25,7 @@
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwindcss-14354C?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB">
 </div>
 
 ## 🌎 Interesse em aprender
