@@ -20,14 +20,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,c,tailwindcss,bootstrap,vercel,figma" />
-  </a>
-</p>
-
-## 🌎 Interesse em aprender
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,kotlin,python,nodejs,ts,aws" />
+    <img src="https://skillicons.dev/icons?i=js,php,c,tailwindcss,bootstrap,astro,vercel,figma" />
   </a>
 </p>
